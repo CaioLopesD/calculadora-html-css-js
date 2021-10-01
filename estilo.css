@@ -1,0 +1,50 @@
+body{
+    background-color: #999999;
+}
+#titulo{
+    color:#033222;
+    text-align: center;
+}
+#caixa{
+    margin-left: 20vw;
+    width: 50vw;
+    height: 500px;
+    border:2px solid #033222;
+    border-radius:20px;
+    
+}
+#resultado
+{
+    margin-left: 3%;
+    align-items: center;
+    width: 93.5%;
+    background-color: #999999;
+     border:1.5px solid #033222;
+    height: 26%;
+    font-size: 50px;
+    text-align: right;
+font-family: 'Times New Roman', Times, serif;
+
+
+}
+ul{
+    padding-top:65px;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 2.5fr 2.5fr 2.5fr 2.5fr;
+    align-items: center;
+
+}
+li{
+    border:1px solid #999999 ;
+    width: 50px;
+    margin: 10px;
+}
+button
+{
+    
+    color:#999999;
+    background-color:#033222;
+    width: 100%;
+    height: 100%;
+}
